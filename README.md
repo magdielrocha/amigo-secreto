@@ -10,9 +10,5 @@
 
  ﻿<h1 align="center">Autores</h1>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4><br><sub>Magdiel Rocha</sub>](https://github.com/magdielrocha) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4" width=115><br><sub>Magdiel Rocha</sub>](https://github.com/magdielrocha) |
 | :---: |
-
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
