@@ -4,6 +4,7 @@
 </p>
 
  <h1 align="center">Autores</h1>
+
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4" width=115><br><sub>Magdiel Rocha</sub>](https://github.com/magdielrocha) |
 | :---: |
 
@@ -12,10 +13,10 @@
 </p>
 
 <h1 align="center">Tecnologias 🚀</h1>
-<p>
-![icons8-html-5-480](https://github.com/user-attachments/assets/45170fdc-0b26-4af2-bd2e-39cdde2deef0)
-![icons8-javascript-480](https://github.com/user-attachments/assets/d42979aa-527b-41fa-b818-020e46fe034d)
-![icons8-css3-480](https://github.com/user-attachments/assets/2c4c97f4-c22a-4c26-97c0-8371e5f16e94)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/45170fdc-0b26-4af2-bd2e-39cdde2deef0" alt="HTML5">
+<img src="https://github.com/user-attachments/assets/d42979aa-527b-41fa-b818-020e46fe034d" alt="JAVASCRIPT">
+<img src="https://github.com/user-attachments/assets/2c4c97f4-c22a-4c26-97c0-8371e5f16e94" alt="CSS3">
 </p>
 
 
