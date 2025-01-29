@@ -1,10 +1,9 @@
 ﻿<h1 align="center">🎁 Sorteio de Amigo Secreto</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9a66550e-1bc8-4c46-af10-fcbe3e576eff" alt="Amigo Secreto">
+  <img src="https://github.com/user-attachments/assets/04841caf-7b73-4980-973a-036abec89b1f" alt="Amigo Secreto">
 </p>
 
-
-# 🪛 Objetivo do projeto
+## 🪛 Objetivo do projeto
 
 Este projeto foi desenvolvido para aprimorar habilidades em lógica de programação do Curso de Lógica de Programação do ONE, implementando a funcionalidade de um sorteio de Amigo Secreto em uma página web.
 
