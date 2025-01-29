@@ -2,18 +2,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a66550e-1bc8-4c46-af10-fcbe3e576eff" alt="TOP SECRET">
 </p>
-
-<style>
-        body {
-            text-align: center;
-        }
-    </style>
  
 <h1 align="center">Autores</h1>
 
-<a align="center" href="https://github.com/magdielrocha" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4)" alt="Perfil do GitHub" width="100">
-</a>
+<div style="text-align: center;">
+  <a align="center" href="https://github.com/magdielrocha" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4)" alt="Perfil do GitHub" width="100">
+  </a>
+</div>
 
 <h1 align="center">Tecnologias 🚀</h1>
 <p align="center">
