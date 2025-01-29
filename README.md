@@ -1,6 +1,6 @@
 ﻿<h1 align="center">🎁 Sorteio de Amigo Secreto</h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04841caf-7b73-4980-973a-036abec89b1f" alt="Amigo Secreto">
+  <img src="https://github.com/user-attachments/assets/00dee530-5c21-4412-9647-b4352a3b68c2" alt="Amigo Secreto">
 </p>
 
 ## 🪛 Objetivo do projeto
