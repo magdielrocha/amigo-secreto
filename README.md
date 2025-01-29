@@ -5,11 +5,11 @@
  
 <h1 align="center">Autores</h1>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/magdielrocha" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/33636082?s=400&u=4e454da3eb5d26322f7f98936fb682161d6cef71&v=4)" alt="Perfil do GitHub" width="100">
   </a>
-</div>
+</p>
 
 <h1 align="center">Tecnologias 🚀</h1>
 <p align="center">
